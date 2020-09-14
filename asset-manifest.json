@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/nokia-hackathon-group-1/static/css/main.68f24f4d.chunk.css",
+    "main.js": "/nokia-hackathon-group-1/static/js/main.8920b3a6.chunk.js",
+    "main.js.map": "/nokia-hackathon-group-1/static/js/main.8920b3a6.chunk.js.map",
+    "runtime-main.js": "/nokia-hackathon-group-1/static/js/runtime-main.42620524.js",
+    "runtime-main.js.map": "/nokia-hackathon-group-1/static/js/runtime-main.42620524.js.map",
+    "static/js/2.3fedd0ee.chunk.js": "/nokia-hackathon-group-1/static/js/2.3fedd0ee.chunk.js",
+    "static/js/2.3fedd0ee.chunk.js.map": "/nokia-hackathon-group-1/static/js/2.3fedd0ee.chunk.js.map",
+    "index.html": "/nokia-hackathon-group-1/index.html",
+    "precache-manifest.aa0ae4a32b2b558de7a91d0e780fc447.js": "/nokia-hackathon-group-1/precache-manifest.aa0ae4a32b2b558de7a91d0e780fc447.js",
+    "service-worker.js": "/nokia-hackathon-group-1/service-worker.js",
+    "static/css/main.68f24f4d.chunk.css.map": "/nokia-hackathon-group-1/static/css/main.68f24f4d.chunk.css.map",
+    "static/js/2.3fedd0ee.chunk.js.LICENSE.txt": "/nokia-hackathon-group-1/static/js/2.3fedd0ee.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/nokia-hackathon-group-1/static/media/1.52a451b4.jpg",
+    "static/media/2.jpg": "/nokia-hackathon-group-1/static/media/2.830ff5f6.jpg",
+    "static/media/3.jpg": "/nokia-hackathon-group-1/static/media/3.5c9b115b.jpg",
+    "static/media/4.jpg": "/nokia-hackathon-group-1/static/media/4.ca4a8355.jpg",
+    "static/media/5.jpg": "/nokia-hackathon-group-1/static/media/5.54f5f036.jpg",
+    "static/media/HELP-logo.gif": "/nokia-hackathon-group-1/static/media/HELP-logo.29db2c31.gif",
+    "static/media/index.css": "/nokia-hackathon-group-1/static/media/NokiaPureTWeb_Rg.536160e8.ttf",
+    "static/media/BannerBottom.css": "/nokia-hackathon-group-1/static/media/PhonesForEveryoneBanner.762af741.png",
+    "static/media/Banner.css": "/nokia-hackathon-group-1/static/media/TopBanner.ffdf93c3.jpg",
+    "static/media/YourMatch.jpg": "/nokia-hackathon-group-1/static/media/YourMatch.73187680.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42620524.js",
+    "static/js/2.3fedd0ee.chunk.js",
+    "static/css/main.68f24f4d.chunk.css",
+    "static/js/main.8920b3a6.chunk.js"
+  ]
+}

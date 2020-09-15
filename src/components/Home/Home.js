@@ -10,6 +10,8 @@ import FullRange3 from '../FullRange/FullRange3';
 import Carousel from '../Carousel/Carousel';
 import './HomeStyle.css';
 
+import data from '../../data';
+
 
 class Home extends Component {
 
@@ -23,16 +25,16 @@ class Home extends Component {
   }
 
 	componentDidMount() {
-		this.getPhone();
+		this.setState({ data: data })
 	}
 
-	getPhone = () => {
-		fetch(`https://cors-anywhere.herokuapp.com/https://nokia-hackathon.herokuapp.com/phones`)
-			.then(response => response.json())
-			.then(data => {
-				this.setState({ data })
-			})
-	}
+	// getPhone = () => {
+	// 	fetch('data.json')
+	// 		.then(response => response.json())
+	// 		.then(data => {
+	// 			this.setState({ data })
+	// 		})
+	// }
 
 
 	handleClick = () => {
